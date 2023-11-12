@@ -15,6 +15,7 @@ services:
       - ./addons:/mnt/extra-addons
       - ./addons-customize:/mnt/extra-addons-customize
       - ./enterprise16:/mnt/enterprise
+      - ./addons-customize/odoo_modules:/mnt/odoo_modules
     entrypoint: "/usr/bin/odoo -c /etc/odoo/odoo.conf"
     restart: always
 

@@ -1,0 +1,41 @@
+## Instalar Tools
+https://apps.odoo.com/apps/modules/16.0/app_odoo_customize/
+
+
+## Instalar Toponimos
+https://apps.odoo.com/apps/modules/16.0/l10n_es_toponyms/
+
+
+## CONFIGURACIONES 
+    -Crear los Productos con los IVAs correctos.
+        - Transporte de Residuos Nacional 10%
+        - Transporte de Residuos Internacional 10%
+        - Transporte Nacional 21%
+        - Transporte Intracomunitario 21%
+        
+    -Facturación por entrega en Ventas/CONFIGURACIONES
+
+
+## MODELOS DE Odoo a extender
+
+Pedidos
+    - 
+
+Proveedores
+    - Check si retención del 1%
+
+
+## MODELOS NUEVOS
+
+
+# Puntos de carga
+# se podría usar los contactos e identificarlos como puntos de carga y descarga?
+
+load_points
+    -name
+    -address
+    -location
+    -cp
+    -cae
+
+

@@ -4,3 +4,11 @@ addons
 addons-customize
 enterprise16
 *.code-workspace
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+
