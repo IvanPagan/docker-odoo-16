@@ -1,4 +1,6 @@
 # VS code
 .vscode
-.addons
+addons
+addons-customize
+enterprise16
 *.code-workspace

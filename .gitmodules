@@ -1,3 +1,6 @@
 [submodule "addons-customize/odoo_modules"]
 	path = addons-customize/odoo_modules
 	url = git@github.com:IvanPagan/odoo_modules.git
+[submodule "enterprise16"]
+	path = enterprise16
+	url = git@github.com:odoo/enterprise.git
