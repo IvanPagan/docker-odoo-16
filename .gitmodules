@@ -1,0 +1,3 @@
+[submodule "addons-customize/odoo_modules"]
+	path = addons-customize/odoo_modules
+	url = git@github.com:IvanPagan/odoo_modules.git
